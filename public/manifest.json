@@ -1,21 +1,16 @@
 {
-  "short_name": "Plant2Earn",
-  "name": "Plant Earn",
+  "short_name": "Plant2Earn Dapp",
+  "name": "Play to earn with your NFT",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "favicon178.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo.png",
+      "src": "logo192_178.png",
       "type": "image/png",
       "sizes": "192x192"
-    },
-    {
-      "src": "logo.png",
-      "type": "image/png",
-      "sizes": "512x512"
     }
   ],
   "start_url": ".",
