@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c2145496.chunk.css",
+    "main.js": "/static/js/main.3e23c00a.chunk.js",
+    "main.js.map": "/static/js/main.3e23c00a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9579079d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9579079d.js.map",
+    "static/js/2.df0f5683.chunk.js": "/static/js/2.df0f5683.chunk.js",
+    "static/js/2.df0f5683.chunk.js.map": "/static/js/2.df0f5683.chunk.js.map",
+    "static/js/3.81b4ccad.chunk.js": "/static/js/3.81b4ccad.chunk.js",
+    "static/js/3.81b4ccad.chunk.js.map": "/static/js/3.81b4ccad.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c2145496.chunk.css.map": "/static/css/main.c2145496.chunk.css.map",
+    "static/js/2.df0f5683.chunk.js.LICENSE.txt": "/static/js/2.df0f5683.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/static/media/tokenomics-background.b29ab62a.jpg",
+    "static/media/logo.1af03659.png": "/static/media/logo.1af03659.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9579079d.js",
+    "static/js/2.df0f5683.chunk.js",
+    "static/css/main.c2145496.chunk.css",
+    "static/js/main.3e23c00a.chunk.js"
+  ]
+}
