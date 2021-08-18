@@ -4,8 +4,8 @@
     "display": "browser",
     "scope": "/",
     "start_url": "/",
-    "name": "Test",
-    "short_name": "HP",
+    "name": "PL",
+    "short_name": "PL",
     "icons": [
         {
             "src": "/icon-192x192.png",
