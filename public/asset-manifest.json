@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb6eb195.chunk.css",
-    "main.js": "/static/js/main.28bc12f1.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.3403694b.js",
-    "static/css/2.5c54906e.chunk.css": "/static/css/2.5c54906e.chunk.css",
-    "static/js/2.f80f0f1b.chunk.js": "/static/js/2.f80f0f1b.chunk.js",
-    "static/js/3.53481643.chunk.js": "/static/js/3.53481643.chunk.js",
+    "main.css": "/static/css/main.045d5559.chunk.css",
+    "main.js": "/static/js/main.57431747.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.9a243111.js",
+    "static/css/2.a8515fbf.chunk.css": "/static/css/2.a8515fbf.chunk.css",
+    "static/js/2.776e8744.chunk.js": "/static/js/2.776e8744.chunk.js",
+    "static/js/3.74c291b8.chunk.js": "/static/js/3.74c291b8.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.f80f0f1b.chunk.js.LICENSE.txt": "/static/js/2.f80f0f1b.chunk.js.LICENSE.txt",
+    "static/js/2.776e8744.chunk.js.LICENSE.txt": "/static/js/2.776e8744.chunk.js.LICENSE.txt",
     "static/media/1.png": "/static/media/1.6aeb9f04.png",
     "static/media/11.png": "/static/media/11.3d7b5c26.png",
     "static/media/2.png": "/static/media/2.cebfcba9.png",
@@ -20,23 +20,28 @@
     "static/media/Bottle_Decanter_Round_Potion_Pink.ffc9a9bd.svg": "/static/media/Bottle_Decanter_Round_Potion_Pink.ffc9a9bd.svg",
     "static/media/Bottle_Potion_Rejuvenation_Small.a78b0c38.svg": "/static/media/Bottle_Potion_Rejuvenation_Small.a78b0c38.svg",
     "static/media/global-styles.css": "/static/media/prev.6a64010e.svg",
+    "static/media/Potion1.42fe1c55.svg": "/static/media/Potion1.42fe1c55.svg",
+    "static/media/Potion2.e7bccda6.svg": "/static/media/Potion2.e7bccda6.svg",
     "static/media/background.63795f7c.jpg": "/static/media/background.63795f7c.jpg",
     "static/media/CharacterItem.module.css": "/static/media/bg_character.f9a174a1.svg",
     "static/media/bg_opponent.ab57b49c.png": "/static/media/bg_opponent.ab57b49c.png",
     "static/media/bg_popup.b1d5f592.png": "/static/media/bg_popup.b1d5f592.png",
+    "static/media/items.css": "/static/media/geger_9.e422ebc0.png",
     "static/media/ic_fighting.c35caa03.svg": "/static/media/ic_fighting.c35caa03.svg",
     "static/media/ic_lose.0843bc3b.svg": "/static/media/ic_lose.0843bc3b.svg",
     "static/media/ic_win.1c07a67d.svg": "/static/media/ic_win.1c07a67d.svg",
     "static/media/index.module.css": "/static/media/logo_app.64d945da.png",
     "static/media/page-left.aa06bbdd.svg": "/static/media/page-left.aa06bbdd.svg",
     "static/media/page-right.e873042f.svg": "/static/media/page-right.e873042f.svg",
-    "static/media/seed.c45c19ce.png": "/static/media/seed.c45c19ce.png"
+    "static/media/seed.c45c19ce.png": "/static/media/seed.c45c19ce.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/index.css": "/static/media/wallpaperbetter1.43dfa4ad.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3403694b.js",
-    "static/css/2.5c54906e.chunk.css",
-    "static/js/2.f80f0f1b.chunk.js",
-    "static/css/main.cb6eb195.chunk.css",
-    "static/js/main.28bc12f1.chunk.js"
+    "static/js/runtime-main.9a243111.js",
+    "static/css/2.a8515fbf.chunk.css",
+    "static/js/2.776e8744.chunk.js",
+    "static/css/main.045d5559.chunk.css",
+    "static/js/main.57431747.chunk.js"
   ]
 }
