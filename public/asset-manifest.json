@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.c4406f25.chunk.css",
-    "main.js": "/static/js/main.7591385d.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.8716204e.js",
+    "main.js": "/static/js/main.d98d89df.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.1fec7425.js",
     "static/css/2.693ca39a.chunk.css": "/static/css/2.693ca39a.chunk.css",
-    "static/js/2.682cb2dd.chunk.js": "/static/js/2.682cb2dd.chunk.js",
-    "static/js/3.4f6bd2ba.chunk.js": "/static/js/3.4f6bd2ba.chunk.js",
+    "static/js/2.3cfd1531.chunk.js": "/static/js/2.3cfd1531.chunk.js",
+    "static/js/3.7a6127d2.chunk.js": "/static/js/3.7a6127d2.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.682cb2dd.chunk.js.LICENSE.txt": "/static/js/2.682cb2dd.chunk.js.LICENSE.txt",
+    "static/js/2.3cfd1531.chunk.js.LICENSE.txt": "/static/js/2.3cfd1531.chunk.js.LICENSE.txt",
     "static/media/main.scss": "/static/media/zygor-item.4a45a1ca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8716204e.js",
+    "static/js/runtime-main.1fec7425.js",
     "static/css/2.693ca39a.chunk.css",
-    "static/js/2.682cb2dd.chunk.js",
+    "static/js/2.3cfd1531.chunk.js",
     "static/css/main.c4406f25.chunk.css",
-    "static/js/main.7591385d.chunk.js"
+    "static/js/main.d98d89df.chunk.js"
   ]
 }
