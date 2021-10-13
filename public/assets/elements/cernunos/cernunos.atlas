@@ -1,0 +1,279 @@
+
+cernunos.png
+size: 1620,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 2, 34
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/arm_l1
+  rotate: false
+  xy: 1225, 58
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+skin_2/arm_l1_leaf
+  rotate: false
+  xy: 248, 2
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+skin_2/arm_l2
+  rotate: false
+  xy: 1230, 261
+  size: 147, 133
+  orig: 149, 135
+  offset: 1, 1
+  index: -1
+skin_2/arm_r1
+  rotate: true
+  xy: 1047, 88
+  size: 109, 124
+  orig: 112, 126
+  offset: 1, 1
+  index: -1
+skin_2/arm_r2
+  rotate: true
+  xy: 1379, 200
+  size: 83, 123
+  orig: 83, 123
+  offset: 0, 0
+  index: -1
+skin_2/armor_back
+  rotate: true
+  xy: 1379, 285
+  size: 109, 147
+  orig: 109, 147
+  offset: 0, 0
+  index: -1
+skin_2/armor_mid
+  rotate: true
+  xy: 1067, 199
+  size: 144, 161
+  orig: 145, 161
+  offset: 1, 0
+  index: -1
+skin_2/armor_side_l1
+  rotate: true
+  xy: 680, 83
+  size: 44, 138
+  orig: 44, 138
+  offset: 0, 0
+  index: -1
+skin_2/armor_side_l2
+  rotate: false
+  xy: 1173, 110
+  size: 50, 87
+  orig: 50, 87
+  offset: 0, 0
+  index: -1
+skin_2/armor_side_r1
+  rotate: true
+  xy: 1230, 165
+  size: 94, 143
+  orig: 94, 143
+  offset: 0, 0
+  index: -1
+skin_2/beard
+  rotate: false
+  xy: 776, 2
+  size: 71, 54
+  orig: 73, 56
+  offset: 1, 1
+  index: -1
+skin_2/beard_r
+  rotate: true
+  xy: 673, 2
+  size: 79, 101
+  orig: 81, 102
+  offset: 1, 1
+  index: -1
+skin_2/belt
+  rotate: true
+  xy: 680, 129
+  size: 195, 182
+  orig: 195, 182
+  offset: 0, 0
+  index: -1
+skin_2/berd_l
+  rotate: true
+  xy: 2, 7
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+skin_2/body_bot
+  rotate: false
+  xy: 1224, 396
+  size: 310, 134
+  orig: 310, 134
+  offset: 0, 0
+  index: -1
+skin_2/body_top
+  rotate: false
+  xy: 406, 85
+  size: 272, 239
+  orig: 274, 241
+  offset: 1, 1
+  index: -1
+skin_2/day
+  rotate: false
+  xy: 864, 231
+  size: 201, 112
+  orig: 201, 112
+  offset: 0, 0
+  index: -1
+skin_2/ear_l
+  rotate: true
+  xy: 776, 58
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+skin_2/ear_r
+  rotate: true
+  xy: 1145, 18
+  size: 68, 47
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: true
+  xy: 1375, 98
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+skin_2/hair1
+  rotate: false
+  xy: 1336, 114
+  size: 31, 49
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+skin_2/hair_top
+  rotate: false
+  xy: 439, 3
+  size: 118, 80
+  orig: 120, 82
+  offset: 1, 1
+  index: -1
+skin_2/hairback
+  rotate: false
+  xy: 1536, 413
+  size: 82, 117
+  orig: 84, 118
+  offset: 1, 1
+  index: -1
+skin_2/hand_l1
+  rotate: false
+  xy: 1536, 321
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1
+skin_2/hand_r
+  rotate: false
+  xy: 1336, 19
+  size: 91, 77
+  orig: 93, 79
+  offset: 1, 1
+  index: -1
+skin_2/horn
+  rotate: false
+  xy: 819, 345
+  size: 403, 185
+  orig: 403, 185
+  offset: 0, 0
+  index: -1
+skin_2/leg1_1
+  rotate: true
+  xy: 559, 8
+  size: 75, 112
+  orig: 75, 112
+  offset: 0, 0
+  index: -1
+skin_2/leg1_2
+  rotate: true
+  xy: 1496, 40
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+skin_2/leg2_1
+  rotate: false
+  xy: 1528, 239
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+skin_2/leg2_2
+  rotate: false
+  xy: 1504, 131
+  size: 114, 106
+  orig: 114, 106
+  offset: 0, 0
+  index: -1
+skin_2/leg3_1
+  rotate: true
+  xy: 355, 2
+  size: 81, 82
+  orig: 83, 84
+  offset: 1, 1
+  index: -1
+skin_2/leg3_2
+  rotate: false
+  xy: 951, 25
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+skin_2/leg4_1
+  rotate: false
+  xy: 849, 11
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+skin_2/leg4_2
+  rotate: true
+  xy: 1039, 11
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+skin_2/tail
+  rotate: true
+  xy: 864, 120
+  size: 109, 181
+  orig: 109, 181
+  offset: 0, 0
+  index: -1
+skin_2/weapon
+  rotate: false
+  xy: 2, 326
+  size: 815, 204
+  orig: 815, 204
+  offset: 0, 0
+  index: -1
+skin_2/weapon_2
+  rotate: false
+  xy: 2, 111
+  size: 402, 213
+  orig: 402, 213
+  offset: 0, 0
+  index: -1
+skin_3/mom2
+  rotate: false
+  xy: 1429, 57
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
