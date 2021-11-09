@@ -1,0 +1,181 @@
+
+Eddie.png
+size: 998,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: true
+  xy: 2, 45
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/arm_L_01
+  rotate: true
+  xy: 481, 2
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+skin_2/arm_L_02
+  rotate: true
+  xy: 562, 127
+  size: 162, 124
+  orig: 162, 124
+  offset: 0, 0
+  index: -1
+skin_2/arm_R_01
+  rotate: true
+  xy: 546, 4
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+skin_2/arm_R_02
+  rotate: true
+  xy: 282, 20
+  size: 73, 126
+  orig: 73, 126
+  offset: 0, 0
+  index: -1
+skin_2/belt_01
+  rotate: false
+  xy: 2, 2
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+skin_2/belt_02
+  rotate: true
+  xy: 250, 95
+  size: 26, 110
+  orig: 26, 110
+  offset: 0, 0
+  index: -1
+skin_2/belt_03
+  rotate: true
+  xy: 362, 102
+  size: 19, 69
+  orig: 19, 69
+  offset: 0, 0
+  index: -1
+skin_2/body
+  rotate: false
+  xy: 862, 147
+  size: 120, 142
+  orig: 120, 142
+  offset: 0, 0
+  index: -1
+skin_2/cloth_01
+  rotate: true
+  xy: 221, 8
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+skin_2/cloth_02
+  rotate: true
+  xy: 410, 3
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+skin_2/cloth_03
+  rotate: false
+  xy: 113, 4
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+skin_2/cloth_04
+  rotate: true
+  xy: 481, 54
+  size: 67, 140
+  orig: 67, 140
+  offset: 0, 0
+  index: -1
+skin_2/cloth_05
+  rotate: true
+  xy: 169, 5
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+skin_2/face
+  rotate: false
+  xy: 79, 89
+  size: 169, 200
+  orig: 169, 200
+  offset: 0, 0
+  index: -1
+skin_2/hair
+  rotate: true
+  xy: 735, 146
+  size: 143, 125
+  orig: 143, 125
+  offset: 0, 0
+  index: -1
+skin_2/leg_L
+  rotate: true
+  xy: 250, 123
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+skin_2/leg_R
+  rotate: true
+  xy: 623, 4
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+skin_2/necklace
+  rotate: false
+  xy: 890, 11
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: true
+  xy: 943, 17
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 890, 79
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: true
+  xy: 688, 135
+  size: 154, 45
+  orig: 154, 45
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 406, 123
+  size: 166, 154
+  orig: 166, 154
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: false
+  xy: 767, 2
+  size: 121, 142
+  orig: 121, 142
+  offset: 0, 0
+  index: -1
+skin_2/seashore
+  rotate: false
+  xy: 79, 45
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,286 @@
+
+skeleton_bowman.png
+size: 824,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/flare (25)
+  rotate: false
+  xy: 640, 449
+  size: 180, 72
+  orig: 180, 72
+  offset: 0, 0
+  index: -1
+fx/impact
+  rotate: false
+  xy: 129, 3
+  size: 44, 150
+  orig: 44, 150
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 346, 352
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_2/Arrow Holder1
+  rotate: false
+  xy: 323, 210
+  size: 112, 123
+  orig: 112, 123
+  offset: 0, 0
+  index: -1
+skin_2/Arrow Holder2
+  rotate: true
+  xy: 742, 70
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+skin_2/Belt
+  rotate: true
+  xy: 329, 86
+  size: 122, 99
+  orig: 122, 99
+  offset: 0, 0
+  index: -1
+skin_2/Belt_01
+  rotate: false
+  xy: 552, 136
+  size: 96, 100
+  orig: 96, 100
+  offset: 0, 0
+  index: -1
+skin_2/Belt_02
+  rotate: false
+  xy: 744, 193
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+skin_2/Body
+  rotate: false
+  xy: 171, 163
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+skin_2/Body_01
+  rotate: false
+  xy: 561, 238
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+skin_2/Hat
+  rotate: false
+  xy: 171, 335
+  size: 173, 186
+  orig: 173, 186
+  offset: 0, 0
+  index: -1
+skin_2/Hat_01
+  rotate: false
+  xy: 527, 2
+  size: 77, 85
+  orig: 77, 85
+  offset: 0, 0
+  index: -1
+skin_2/Head
+  rotate: true
+  xy: 175, 3
+  size: 158, 152
+  orig: 158, 152
+  offset: 0, 0
+  index: -1
+skin_2/L_Finger1
+  rotate: false
+  xy: 530, 89
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+skin_2/L_Finger2
+  rotate: true
+  xy: 606, 2
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+skin_2/L_Finger3
+  rotate: true
+  xy: 580, 96
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+skin_2/L_Hand
+  rotate: false
+  xy: 745, 316
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+skin_2/L_Knee
+  rotate: false
+  xy: 745, 248
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+skin_2/L_Leg
+  rotate: false
+  xy: 437, 154
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+skin_2/L_U_Arm 1
+  rotate: false
+  xy: 329, 15
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+skin_2/L_U_Arm2
+  rotate: true
+  xy: 650, 103
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+skin_2/R_Finger
+  rotate: false
+  xy: 606, 25
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+skin_2/R_Hand
+  rotate: false
+  xy: 658, 35
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+skin_2/R_Knee
+  rotate: false
+  xy: 722, 11
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+skin_2/R_Leg
+  rotate: false
+  xy: 435, 2
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+skin_2/R_M_Arm2
+  rotate: false
+  xy: 650, 194
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+skin_2/R_U_Arm1
+  rotate: true
+  xy: 430, 89
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+skin_2/Weapon
+  rotate: false
+  xy: 2, 155
+  size: 167, 366
+  orig: 167, 366
+  offset: 0, 0
+  index: -1
+skin_2/arrow
+  rotate: true
+  xy: 346, 476
+  size: 45, 292
+  orig: 45, 292
+  offset: 0, 0
+  index: -1
+skin_2/eye1
+  rotate: true
+  xy: 658, 10
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+skin_2/eye2
+  rotate: true
+  xy: 634, 124
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+skin_2/jaw
+  rotate: false
+  xy: 437, 243
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_1
+  rotate: true
+  xy: 746, 395
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+skin_2/nft_part1_2
+  rotate: false
+  xy: 742, 124
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_1
+  rotate: false
+  xy: 2, 13
+  size: 125, 140
+  orig: 125, 140
+  offset: 0, 0
+  index: -1
+skin_2/nft_part2_2
+  rotate: true
+  xy: 346, 429
+  size: 45, 292
+  orig: 45, 292
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_1
+  rotate: true
+  xy: 640, 391
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+skin_2/nft_part3_2
+  rotate: true
+  xy: 782, 20
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_1
+  rotate: true
+  xy: 592, 363
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+skin_2/nft_part4_2
+  rotate: false
+  xy: 647, 285
+  size: 96, 104
+  orig: 96, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+Kaboom.png
+size: 1448,405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 569, 124
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Bap tay 2
+  rotate: false
+  xy: 443, 69
+  size: 124, 103
+  orig: 124, 103
+  offset: 0, 0
+  index: -1
+skin_1/Bell 2
+  rotate: true
+  xy: 815, 118
+  size: 104, 156
+  orig: 104, 156
+  offset: 0, 0
+  index: -1
+skin_1/Bomb belt copy
+  rotate: true
+  xy: 963, 12
+  size: 84, 97
+  orig: 84, 97
+  offset: 0, 0
+  index: -1
+skin_1/Bomb2
+  rotate: true
+  xy: 815, 224
+  size: 179, 240
+  orig: 179, 240
+  offset: 0, 0
+  index: -1
+skin_1/Cang chan phai l2
+  rotate: true
+  xy: 881, 2
+  size: 114, 80
+  orig: 114, 80
+  offset: 0, 0
+  index: -1
+skin_1/Cang chan trai l2
+  rotate: true
+  xy: 1161, 150
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+skin_1/Cang tay 2
+  rotate: false
+  xy: 766, 2
+  size: 113, 114
+  orig: 113, 114
+  offset: 0, 0
+  index: -1
+skin_1/Chan phai l2
+  rotate: false
+  xy: 569, 2
+  size: 107, 120
+  orig: 107, 120
+  offset: 0, 0
+  index: -1
+skin_1/Chan trai l2
+  rotate: false
+  xy: 973, 98
+  size: 89, 124
+  orig: 89, 124
+  offset: 0, 0
+  index: -1
+skin_1/Ear l2
+  rotate: false
+  xy: 2, 9
+  size: 217, 116
+  orig: 217, 116
+  offset: 0, 0
+  index: -1
+skin_1/Layer 10
+  rotate: false
+  xy: 221, 36
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+skin_1/Layer 6
+  rotate: true
+  xy: 1383, 261
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+skin_1/Layer 7a
+  rotate: false
+  xy: 2, 127
+  size: 274, 276
+  orig: 274, 276
+  offset: 0, 0
+  index: -1
+skin_1/Layer 7b
+  rotate: true
+  xy: 1254, 204
+  size: 199, 127
+  orig: 199, 127
+  offset: 0, 0
+  index: -1
+skin_1/Layer 8
+  rotate: false
+  xy: 278, 174
+  size: 289, 229
+  orig: 289, 229
+  offset: 0, 0
+  index: -1
+skin_1/Layer 8b
+  rotate: false
+  xy: 569, 201
+  size: 244, 202
+  orig: 244, 202
+  offset: 0, 0
+  index: -1
+skin_1/Layer119 copy
+  rotate: false
+  xy: 1383, 208
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+skin_1/Layer248
+  rotate: false
+  xy: 1416, 303
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+skin_1/Layer9
+  rotate: true
+  xy: 678, 2
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+skin_1/bap tay phai
+  rotate: false
+  xy: 1064, 111
+  size: 95, 123
+  orig: 95, 123
+  offset: 0, 0
+  index: -1
+skin_1/body 2
+  rotate: false
+  xy: 278, 2
+  size: 163, 170
+  orig: 163, 170
+  offset: 0, 0
+  index: -1
+skin_1/cang tay phai
+  rotate: false
+  xy: 1254, 129
+  size: 126, 73
+  orig: 126, 73
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 498, 8
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: true
+  xy: 1144, 37
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: true
+  xy: 1383, 333
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 1057, 236
+  size: 195, 167
+  orig: 195, 167
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: true
+  xy: 1360, 42
+  size: 85, 71
+  orig: 85, 71
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: true
+  xy: 1064, 36
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+skin_1/vai l2
+  rotate: true
+  xy: 1250, 26
+  size: 101, 108
+  orig: 101, 108
+  offset: 0, 0
+  index: -1
+skin_2/dayboom
+  rotate: false
+  xy: 443, 2
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+skin_2/neck copy
+  rotate: false
+  xy: 1161, 79
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1

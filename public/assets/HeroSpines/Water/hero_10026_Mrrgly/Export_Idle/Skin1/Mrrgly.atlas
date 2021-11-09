@@ -1,0 +1,202 @@
+
+Mrrgly.png
+size: 1065,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shadow
+  rotate: false
+  xy: 610, 295
+  size: 244, 75
+  orig: 244, 75
+  offset: 0, 0
+  index: -1
+skin_1/Layer 104 copy
+  rotate: false
+  xy: 274, 160
+  size: 107, 391
+  orig: 107, 391
+  offset: 0, 0
+  index: -1
+skin_1/Layer 115
+  rotate: false
+  xy: 2, 297
+  size: 270, 254
+  orig: 270, 254
+  offset: 0, 0
+  index: -1
+skin_1/Layer 133
+  rotate: false
+  xy: 897, 190
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+skin_1/Layer 134
+  rotate: false
+  xy: 971, 304
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+skin_1/Layer 138
+  rotate: true
+  xy: 834, 18
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+skin_1/Layer 33
+  rotate: false
+  xy: 610, 372
+  size: 245, 179
+  orig: 245, 179
+  offset: 0, 0
+  index: -1
+skin_1/Layer 34
+  rotate: false
+  xy: 383, 286
+  size: 225, 265
+  orig: 225, 265
+  offset: 0, 0
+  index: -1
+skin_1/Layer 35
+  rotate: true
+  xy: 274, 2
+  size: 156, 168
+  orig: 156, 168
+  offset: 0, 0
+  index: -1
+skin_1/Layer 35 copy
+  rotate: true
+  xy: 383, 160
+  size: 124, 190
+  orig: 124, 190
+  offset: 0, 0
+  index: -1
+skin_1/Layer 38
+  rotate: true
+  xy: 691, 183
+  size: 110, 138
+  orig: 110, 138
+  offset: 0, 0
+  index: -1
+skin_1/Layer 38 copy
+  rotate: false
+  xy: 857, 374
+  size: 121, 177
+  orig: 121, 177
+  offset: 0, 0
+  index: -1
+skin_1/Layer 39
+  rotate: true
+  xy: 575, 164
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+skin_1/Layer 40
+  rotate: false
+  xy: 980, 376
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+skin_1/Layer 41
+  rotate: true
+  xy: 834, 69
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+skin_1/Layer 42
+  rotate: true
+  xy: 980, 438
+  size: 113, 78
+  orig: 113, 78
+  offset: 0, 0
+  index: -1
+skin_1/Layer 43
+  rotate: true
+  xy: 831, 183
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+skin_1/Layer 44
+  rotate: false
+  xy: 786, 3
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_1
+  rotate: false
+  xy: 910, 82
+  size: 95, 106
+  orig: 95, 106
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_2
+  rotate: true
+  xy: 444, 37
+  size: 121, 177
+  orig: 121, 177
+  offset: 0, 0
+  index: -1
+skin_1/nft_part1_3
+  rotate: false
+  xy: 994, 234
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+skin_1/nft_part2_1
+  rotate: false
+  xy: 623, 20
+  size: 93, 142
+  orig: 93, 142
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_1
+  rotate: false
+  xy: 2, 41
+  size: 270, 254
+  orig: 270, 254
+  offset: 0, 0
+  index: -1
+skin_1/nft_part3_2
+  rotate: true
+  xy: 718, 4
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_1
+  rotate: true
+  xy: 718, 61
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_2
+  rotate: false
+  xy: 857, 298
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+skin_1/nft_part4_3
+  rotate: false
+  xy: 910, 16
+  size: 110, 64
+  orig: 110, 64
+  offset: 0, 0
+  index: -1
+skin_2/Layer 135
+  rotate: true
+  xy: 444, 2
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
