@@ -1,0 +1,32 @@
+{
+  "1": {
+    "name": "Water",
+    "icon": "",
+    "background": "/assets/backgroundHero/osse-bg.webp"
+  },
+  "2": {
+    "name": "Fire",
+    "icon": "",
+    "background": "/assets/backgroundHero/eitri-bg.webp"
+  },
+  "3": {
+    "name": "Abyss",
+    "icon": "",
+    "background": "/assets/backgroundHero/zygor-bg.webp"
+  },
+  "4": {
+    "name": "Nature",
+    "icon": "",
+    "background": "/assets/backgroundHero/cernunos-bg.webp"
+  },
+  "5": {
+    "name": "Light",
+    "icon": "",
+    "background": "/assets/backgroundHero/heroes-bg.webp"
+  },
+  "6": {
+    "name": "Dark",
+    "icon": "",
+    "background": "/assets/backgroundHero/darkness-bg.webp"
+  }
+}

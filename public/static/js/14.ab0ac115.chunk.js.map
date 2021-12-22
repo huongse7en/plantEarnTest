@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/Page404/index.jsx"],"names":["Page404","props"],"mappings":"6GAAA,uBAMeA,UAJC,SAACC,GACf,OAAO","file":"static/js/14.ab0ac115.chunk.js","sourcesContent":["import React from 'react';\n\nconst Page404 = (props) => {\n  return <div>404 not found!</div>;\n};\n\nexport default Page404;\n"],"sourceRoot":""}

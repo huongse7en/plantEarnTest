@@ -1,2 +1,0 @@
-(this.webpackJsonpmarketplace=this.webpackJsonpmarketplace||[]).push([[12],{385:function(e,t,a){"use strict";a.r(t);a(4);var c=a(8);t.default=function(e){return Object(c.jsx)("div",{children:"Dashboard"})}}}]);
-//# sourceMappingURL=12.71e344be.chunk.js.map

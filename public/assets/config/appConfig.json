@@ -1,0 +1,49 @@
+{
+  "showDashboard": true,
+
+  "showGameFeature": true,
+
+  "showSpecialSummon": true,
+  "showMarket": true,
+  "firstSaleDate": "20211220",
+  "underMaintain": false,
+  "showNotification": true,
+  "summonRefreshTime": 12,
+  "showFullFilter": true,
+  "showSorting": true,
+  "showCoin98": true,
+  "showWalletConnect": false,
+  "dashboardRefreshTime": 20,
+  "currentBatchID": 0,
+
+  "heroBatches": [
+    {
+      "id": 0,
+      "name": "Batch 1",
+      "total": 10000,
+      "isWhitelist": true,
+      "quota": 5
+    },
+    {
+      "id": 1,
+      "name": "Batch 2",
+      "total": 10000,
+      "isWhitelist": false,
+      "quota": 5
+    },
+    {
+      "id": 2,
+      "name": "Batch 3",
+      "total": 20000,
+      "isWhitelist": false,
+      "quota": 5
+    },
+    {
+      "id": 3,
+      "name": "Batch 4",
+      "total": 40000,
+      "isWhitelist": false,
+      "quota": 5
+    }
+  ]
+}
